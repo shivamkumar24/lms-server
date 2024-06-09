@@ -27,6 +27,10 @@
       "title": "React",
       "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.",
       "progress": 80,
+      "lessons": [
+        { "id": 1, "title": "React Intro", "completed": true },
+        { "id": 2, "title": "React JSX", "completed": false }
+      ],
       "userID": 1685261190289
     },
     {
@@ -34,6 +38,10 @@
       "title": "Redux",
       "description": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.",
       "progress": 70,
+      "lessons": [
+        { "id": 1, "title": "Redux Intro", "completed": true },
+        { "id": 2, "title": "Redux Core", "completed": false }
+      ],
       "userID": 1685261190290
     },
     {
@@ -41,6 +49,10 @@
       "title": "JavaScript",
       "description": "JavaScript (JS) is a cross-platform, object-oriented programming language used by developers to make web pages interactive.",
       "progress": 65,
+      "lessons": [
+        { "id": 1, "title": "JS Introduction", "completed": true },
+        { "id": 2, "title": "JS Syntax", "completed": false }
+      ],
       "userID": 1685261190277
     }
   ]
